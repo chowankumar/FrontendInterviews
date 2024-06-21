@@ -1,1 +1,5 @@
 1 => write the number in the string in the console and change it into the number?
+2 => output of the console.log(NaN === NaN )?
+3=> output of the console.log(1<2<3) and console.log   (1>2>3)?
+
+4 => write the word hello world in the h1 in the index.html file and in the js file first create the array wi the four words(names of persons),when any one click on the h1 then change hello world to the (a) suppose array ["a","b"."c","d"] and if user click again then change it to the b and again change it to the c and then d.
